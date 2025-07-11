@@ -28,17 +28,3 @@ Been coding since 5th grade – started with turtle graphics and evolved into bu
 
 ## 📫 Let's Connect!
 Looking for **2025 placement opportunities** and open to collaborating on innovative projects!
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yuvinraja&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yuvinraja&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvinraja&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuvinraja&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=yuvinraja&icon=10&color=1)](https://visitcount.itsvg.in)
